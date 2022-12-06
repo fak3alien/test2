@@ -1,0 +1,11 @@
+body {
+  padding: 0;
+}
+
+#id {
+  margin: 10px;
+}
+
+#qwer {
+  display: grid;
+}
